@@ -14,6 +14,23 @@
 # You should have received a copy of the GNU General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+# __        __  _       _          _          __   _   _          ___ 
+# \ \      / / | |__   (_)   ___  | |__      / _| (_) | |   ___  |__ \
+#  \ \ /\ / /  | '_ \  | |  / __| | '_ \    | |_  | | | |  / _ \   / /
+#   \ V  V /   | | | | | | | (__  | | | |   |  _| | | | | |  __/  |_| 
+#    \_/\_/    |_| |_| |_|  \___| |_| |_|   |_|   |_| |_|  \___|  (_) 
+# 
+# This file is for the Signum3 prototype PCB, it has NO silk screened identifers!
+#                                                                     
+#   ___            _          _              _                    _   
+#  / _ \   _   _  (_)   ___  | | __    ___  | |_    __ _   _ __  | |_ 
+# | | | | | | | | | |  / __| | |/ /   / __| | __|  / _` | | '__| | __|
+# | |_| | | |_| | | | | (__  |   <    \__ \ | |_  | (_| | | |    | |_ 
+#  \__\_\  \__,_| |_|  \___| |_|\_\   |___/  \__|  \__,_| |_|     \__|
+#                                                                     
+# Place this file in your $home/.EasyAVR/boards/ directory, run EasyAVR, select "New" and "Signum III"
+# 
+
 """Keyboard definition for a hand-wired keyboard"""
 
 # The first decision you have to make is to choose a hardware
